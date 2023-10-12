@@ -5,6 +5,7 @@
     list-style: none;
     font-family: 'Montserrat', sans-serif;
     scroll-behavior: smooth;
+    
 }
 
 img {
@@ -23,7 +24,7 @@ section {
 }
 
 .header {
-    background-color: #15043f;
+    background-color: #0fa992;
     color: #fff;
     padding: 20px;
     text-align: center;
